@@ -10,7 +10,8 @@ branches:
   only:
   - main
   - new_features
-
+  - new_features_noor
+  
   
 cache:
   npm: false
